@@ -1,9 +1,9 @@
 # Trabajo-2019
 ## Integrantes.
- + Nicolás Mejía.
- + Nicolás Gomez.
- + Samuel Velasco.
- + Santiago Vargas.
- + Sarah Suarez.
- + Valera Bonilla.
+ + Nicolás Mejía-Programador.
+ + Nicolás Gomez-Constructor.
+ + Samuel Velasco-COsntructor.
+ + Santiago Vargas-Lider y programador.
+ + Sarah Suarez-Diseñadora.
+ + Valera Bonilla-Diseñadora.
  
