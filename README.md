@@ -2,7 +2,7 @@
 ## Integrantes.
  + Nicolás Mejía-Programador.
  + Nicolás Gomez-Constructor.
- + Samuel Velasco-COsntructor.
+ + Samuel Velasco-Constructor.
  + Santiago Vargas-Lider y programador.
  + Sarah Suarez-Diseñadora.
  + Valera Bonilla-Diseñadora.
