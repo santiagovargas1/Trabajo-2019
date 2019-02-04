@@ -11,4 +11,4 @@ La metodología a trabajar es gestionar para lograr a lo largo de los diseños p
 ## Idea a desarrollar
  
  + Arduino es una plataforma que crea codigo abierto, la cual es fácil de utilizar para los creadores y desarrolladores. Esta plataforma permite crear diferentes tipos de microordenadores de una sola placa a los que se puede darles diferentes tipos de uso,  el cual se encarga de controlar las acciones programadas a traves de otro dispositivo. Este contiene un puerto USB 2.0 el cual es usado para cargar el codigo fuente del computador y para transmitir un voltaje de no mas de 5V.
- + hola
+ + Arduino es una placa del tipo microcontrolador, que no recibe mas de 12v y 1.5 amp
