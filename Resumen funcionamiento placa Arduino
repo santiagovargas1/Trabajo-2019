@@ -1,4 +1,4 @@
-## Resumen del funcionamiento de la placa Arduino 
+ ## Resumen del funcionamiento de la placa Arduino 
  
  + Arduino es una plataforma que crea codigo abierto, la cual es fácil de utilizar para los creadores y desarrolladores. Esta plataforma permite crear diferentes tipos de microordenadores de una sola placa a los que se puede darles diferentes tipos de uso,  el cual se encarga de controlar las acciones programadas a traves de otro dispositivo. 
  + Este contiene un puerto USB 2.0 el cual es usado para cargar el código fuente del computador y para transmitir un voltaje de no mas de 5V.
