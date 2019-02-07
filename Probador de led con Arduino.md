@@ -5,4 +5,4 @@ Acontinuacion se ve el diagrama esquematicop y pictorico del circuito.
 ### Pictórico
 ![alt text](Untitled Sketch_bb.jpg)
 ### Esquemático
-![alt text] (Untitled Sketch_esquemático.jpg)
+![alt text](Untitled Sketch_esquemático.jpg)
