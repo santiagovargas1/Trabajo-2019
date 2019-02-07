@@ -3,6 +3,6 @@ Por medio de esta primera práctica con Arduino, evidenciamos el funcionamiento 
 Se utilizó una resistencia de 220 ohmios,un LED, cable JUMPER, protoboard y la placa arduino mega.
 Acontinuación se ve el diagrama esquematico y pictórico del circuito.
 ### Diagrama Pictórico
-![1](Trabajo-2019/Imágenes/esquematico.jpg)        
+![alt text](https://github.com/santiagovargas1/Trabajo-2019/blob/master/Imagenes/pictorico.jpg)        
 ### Diagrama Esquemático
-![alt text](esquematico.jpg)
+![alt text](https://github.com/santiagovargas1/Trabajo-2019/blob/master/Imagenes/esquematico.jpg)
