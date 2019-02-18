@@ -27,24 +27,23 @@ duration = pulseIn(eco, HIGH);
 distance = 0.034 * duration / 2;
  if(distance < 50){
   digitalWrite(led1 ,HIGH);
+ }
  if(distance < 40){
   digitalWrite( led2 ,HIGH);
  }
-  else(distance > 40);{
+  else (distance > 40);{
     digitalWrite(distance, LOW);
   }
- }
+ 
  if(distance < 30){
   digitalWrite(led3, HIGH);
- }
-  else(distance > 30);{
+ }else(distance > 30);{
     digitalWrite(led3, LOW);
   
   }
- }
+ 
  if(distance < 20){
   digitalWrite(led4, HIGH);
- }
  }else(distance > 50);{
  digitalWrite(led1, LOW);
  digitalWrite(led2, LOW);
